@@ -1,0 +1,14 @@
+# Core Libraries
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+tensorflow==2.12.0
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# SHAP for model interpretation
+shap==0.42.1
+
+# Additional Utilities
+ipython==8.12.0
+jupyter==1.0.0
